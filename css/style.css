@@ -1,0 +1,10 @@
+img:hover {
+    filter: brightness(50%);
+}
+
+.nav:hover {
+    transition: 2s;
+    color: aliceblue;
+    background-color: aliceblue;
+    transition: 3s;
+}
